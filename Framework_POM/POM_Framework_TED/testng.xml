@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test name="LoginTests">
+        <classes>
+            <class name="tests.Coldplay_LoginTest"/>
+            <class name="tests.ColdplayTest"/>
+            <!--<class name="tests.LoginTest"/>-->
+            <!--<class name="tests.TEDTest"/>-->
+            <!--<class name="tests.Begenuin_LoginTest"/>-->
+            <!--<class name="tests.BegenuinTest"/>-->
+        </classes>
+    </test>
+</suite>
